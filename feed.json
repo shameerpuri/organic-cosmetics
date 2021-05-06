@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Organic Cosmetics",
+    "description": "",
+    "home_page_url": "https://shameerpuri.github.io/organic-cosmetics",
+    "feed_url": "https://shameerpuri.github.io/organic-cosmetics/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "SP"
+    },
+    "items": [
+        {
+            "id": "https://shameerpuri.github.io/organic-cosmetics/try.html",
+            "url": "https://shameerpuri.github.io/organic-cosmetics/try.html",
+            "title": "try",
+            "summary": " try ",
+            "content_html": "\n  <p>\n    try\n  </p>",
+            "author": {
+                "name": "SP"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-02-12T15:41:46+05:30",
+            "date_modified": "2020-02-12T15:41:46+05:30"
+        }
+    ]
+}

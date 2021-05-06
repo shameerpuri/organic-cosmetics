@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Organic Cosmetics</title>
+    <link href="https://shameerpuri.github.io/organic-cosmetics/feed.xml" rel="self" />
+    <link href="https://shameerpuri.github.io/organic-cosmetics" />
+    <updated>2020-02-12T15:41:46+05:30</updated>
+    <author>
+        <name>SP</name>
+    </author>
+    <id>https://shameerpuri.github.io/organic-cosmetics</id>
+
+    <entry>
+        <title>try</title>
+        <author>
+            <name>SP</name>
+        </author>
+        <link href="https://shameerpuri.github.io/organic-cosmetics/try.html"/>
+        <id>https://shameerpuri.github.io/organic-cosmetics/try.html</id>
+
+        <updated>2020-02-12T15:41:46+05:30</updated>
+            <summary>
+                <![CDATA[
+                     try 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    try
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
